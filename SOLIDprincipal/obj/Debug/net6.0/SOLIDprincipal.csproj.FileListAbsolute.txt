@@ -1,0 +1,15 @@
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.csproj.AssemblyReference.cache
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.AssemblyInfoInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.AssemblyInfo.cs
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\bin\Debug\net6.0\SOLIDprincipal.exe
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\bin\Debug\net6.0\SOLIDprincipal.deps.json
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\bin\Debug\net6.0\SOLIDprincipal.runtimeconfig.json
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\bin\Debug\net6.0\SOLIDprincipal.dll
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\bin\Debug\net6.0\SOLIDprincipal.pdb
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.dll
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\refint\SOLIDprincipal.dll
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.pdb
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\SOLIDprincipal.genruntimeconfig.cache
+C:\Users\Vinayak.Gohel\source\repos\SOLIDprincipal\SOLIDprincipal\obj\Debug\net6.0\ref\SOLIDprincipal.dll
